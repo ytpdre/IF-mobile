@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Game</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Game.Common/Game.Common.csproj" />
+    <ProjectReference Include="../Game.Data/Game.Data.csproj" />
+    <ProjectReference Include="../Game.Audio/Game.Audio.csproj" />
+    <ProjectReference Include="../Game.Input/Game.Input.csproj" />
+    <ProjectReference Include="../Game.Character/Game.Character.csproj" />
+    <ProjectReference Include="../Game.NativeTime/Game.NativeTime.csproj" />
+    <ProjectReference Include="../Game.NovelEngine/Game.NovelEngine.csproj" />
+    <ProjectReference Include="../Game.UI.Common/Game.UI.Common.csproj" />
+    <ProjectReference Include="../Game.Common.Rendering/Game.Common.Rendering.csproj" />
+  </ItemGroup>
+</Project>

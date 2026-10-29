@@ -1,0 +1,15 @@
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/Game.Common.Rendering.deps.json
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/Game.Common.Rendering.dll
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/Game.Common.Rendering.pdb
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/Game.Common.dll
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/UnityEngine.Shim.dll
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/Game.Common.pdb
+/tmp/infalsus-src/src/Game.Common.Rendering/bin/Debug/netstandard2.1/UnityEngine.Shim.pdb
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.csproj.AssemblyReference.cache
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.AssemblyInfoInputs.cache
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.AssemblyInfo.cs
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.csproj.CoreCompileInputs.cache
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Com.F3766620.Up2Date
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.dll
+/tmp/infalsus-src/src/Game.Common.Rendering/obj/Debug/netstandard2.1/Game.Common.Rendering.pdb

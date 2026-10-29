@@ -1,0 +1,9 @@
+/tmp/infalsus-src/src/UnityShim/bin/Debug/netstandard2.1/UnityEngine.Shim.deps.json
+/tmp/infalsus-src/src/UnityShim/bin/Debug/netstandard2.1/UnityEngine.Shim.dll
+/tmp/infalsus-src/src/UnityShim/bin/Debug/netstandard2.1/UnityEngine.Shim.pdb
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityShim.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityShim.AssemblyInfoInputs.cache
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityShim.AssemblyInfo.cs
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityShim.csproj.CoreCompileInputs.cache
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityEngine.Shim.dll
+/tmp/infalsus-src/src/UnityShim/obj/Debug/netstandard2.1/UnityEngine.Shim.pdb

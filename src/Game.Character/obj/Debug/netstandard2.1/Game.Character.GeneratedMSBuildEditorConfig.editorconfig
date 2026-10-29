@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = InFalsus
+build_property.ProjectDir = /tmp/infalsus-src/src/Game.Character/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

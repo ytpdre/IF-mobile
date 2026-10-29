@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Game.Data/1.0.6": {
+        "dependencies": {
+          "Game.Common": "1.0.6",
+          "UnityEngine.Shim.Reference": "1.0.6.0"
+        },
+        "runtime": {
+          "Game.Data.dll": {}
+        }
+      },
+      "Game.Common/1.0.6": {
+        "dependencies": {
+          "UnityEngine.Shim": "1.0.6"
+        },
+        "runtime": {
+          "Game.Common.dll": {
+            "assemblyVersion": "1.0.6",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "UnityEngine.Shim/1.0.6": {
+        "runtime": {
+          "UnityEngine.Shim.dll": {
+            "assemblyVersion": "1.0.6",
+            "fileVersion": ""
+          }
+        }
+      },
+      "UnityEngine.Shim.Reference/1.0.6.0": {
+        "runtime": {
+          "UnityEngine.Shim.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game.Data/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game.Common/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.Shim/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.Shim.Reference/1.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

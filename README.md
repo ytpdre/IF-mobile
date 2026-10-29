@@ -4,6 +4,33 @@ In Falsus —— 由 lowiro 开发的 Unity 游戏（Steam / Windows）。本仓
 
 > 本仓库为发布产物分析重建的项目骨架，不包含游戏源码、资源或二进制文件。
 
+## 源码骨架（可编译）
+
+`src/` 下是与 1.0.6 程序集划分对应的 .NET 工程，按模块建库（不含任何游戏逻辑或反编译内容）：
+
+```
+src/
+├── UnityShim/               # 最小 UnityEngine 兼容垫片，使工程脱离 Unity 也可编译
+├── Game.Common/             # 模块公共服务
+├── Game.Data/               # 定义数据
+├── Game.Audio/              # 音频（真实构建接 FMOD）
+├── Game.Input/              # 输入（真实构建接 Unity InputSystem）
+├── Game.Character/          # 角色注册
+├── Game.NativeTime/         # 时钟抽象
+├── Game.NovelEngine/        # 剧情/Novel 引擎入口
+├── Game.UI.Common/          # UI 服务
+├── Game.Common.Rendering/   # 渲染设置（真实构建接 URP）
+└── Game/                    # 组合根，引用以上全部模块
+```
+
+编译验证（无需 Unity，任意 .NET 8 SDK 即可）：
+
+```bash
+dotnet build src/Game/Game.csproj
+```
+
+各模块当前只含模块边界桩（公开入口 + 空实现），用于固化程序集结构与依赖方向；真实的游戏逻辑、资源与第三方库（FMOD、Steamworks.NET、MemoryPack、Obfuz 等）不在本仓库。
+
 ## 发布产物结构
 
 当前发布：**1.0.6**（Windows x64，完整客户端，约 6.7 GB / 12230 个文件）。

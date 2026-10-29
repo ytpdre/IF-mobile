@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "/tmp/infalsus-src/src/Game.Character/Game.Character.csproj": {}
+  },
+  "projects": {
+    "/tmp/infalsus-src/src/Game.Character/Game.Character.csproj": {
+      "version": "1.0.6",
+      "restore": {
+        "projectUniqueName": "/tmp/infalsus-src/src/Game.Character/Game.Character.csproj",
+        "projectName": "Game.Character",
+        "projectPath": "/tmp/infalsus-src/src/Game.Character/Game.Character.csproj",
+        "packagesPath": "/home/atomcode/.nuget/packages/",
+        "outputPath": "/tmp/infalsus-src/src/Game.Character/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/atomcode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/tmp/infalsus-src/src/Game.Common/Game.Common.csproj": {
+                "projectPath": "/tmp/infalsus-src/src/Game.Common/Game.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/tmp/dotnet/sdk/8.0.427/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/infalsus-src/src/Game.Common/Game.Common.csproj": {
+      "version": "1.0.6",
+      "restore": {
+        "projectUniqueName": "/tmp/infalsus-src/src/Game.Common/Game.Common.csproj",
+        "projectName": "Game.Common",
+        "projectPath": "/tmp/infalsus-src/src/Game.Common/Game.Common.csproj",
+        "packagesPath": "/home/atomcode/.nuget/packages/",
+        "outputPath": "/tmp/infalsus-src/src/Game.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/atomcode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/tmp/infalsus-src/src/UnityShim/UnityShim.csproj": {
+                "projectPath": "/tmp/infalsus-src/src/UnityShim/UnityShim.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/tmp/dotnet/sdk/8.0.427/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/tmp/infalsus-src/src/UnityShim/UnityShim.csproj": {
+      "version": "1.0.6",
+      "restore": {
+        "projectUniqueName": "/tmp/infalsus-src/src/UnityShim/UnityShim.csproj",
+        "projectName": "UnityEngine.Shim",
+        "projectPath": "/tmp/infalsus-src/src/UnityShim/UnityShim.csproj",
+        "packagesPath": "/home/atomcode/.nuget/packages/",
+        "outputPath": "/tmp/infalsus-src/src/UnityShim/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/atomcode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/tmp/dotnet/sdk/8.0.427/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

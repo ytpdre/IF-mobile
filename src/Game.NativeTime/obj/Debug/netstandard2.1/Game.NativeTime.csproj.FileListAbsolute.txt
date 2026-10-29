@@ -1,0 +1,15 @@
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/Game.NativeTime.deps.json
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/Game.NativeTime.dll
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/Game.NativeTime.pdb
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/Game.Common.dll
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/UnityEngine.Shim.dll
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/Game.Common.pdb
+/tmp/infalsus-src/src/Game.NativeTime/bin/Debug/netstandard2.1/UnityEngine.Shim.pdb
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.csproj.AssemblyReference.cache
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.AssemblyInfoInputs.cache
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.AssemblyInfo.cs
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.csproj.CoreCompileInputs.cache
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.Nat.17C72232.Up2Date
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.dll
+/tmp/infalsus-src/src/Game.NativeTime/obj/Debug/netstandard2.1/Game.NativeTime.pdb
